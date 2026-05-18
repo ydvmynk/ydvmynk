@@ -2,7 +2,7 @@
 
 # Mayank Yadav
 
-### B.Tech CSE — 6th Semester
+### B.Tech CSE — 7th Semester
 
 <br>
 
