@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mayank Yadav</h1>
 
-<!--
-**ydvmynk/ydvmynk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Data Science & Machine Learning
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+
+- DSA
+- Data Science
+- Building AI/ML projects
+- 
+---
+
+## 🏆 Achievements
+
+![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Problems-orange)
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-red?logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=ydvmynk&show_icons=true)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn
+- LeetCode
+- Portfolio
